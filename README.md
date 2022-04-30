@@ -1,6 +1,6 @@
 # Linux-Server-Reporting
 
-Remote Linux Server Reporting on Local System using Shell Script
+### Remote Linux Server Reporting on Local System using Shell Script
 
 Explanation:
 | File | Description |
@@ -14,3 +14,6 @@ Simply Run below command it will ask you Remote Server IP address and User Cread
 ```bash
 sh main.sh
 ```
+
+##### Report includes below details,
+OS Type, OS Name, OS Version, Architecture, Kernel Release, Hostname, IP Address, Nameserver, Logged In Users, Memory Usage in MB, Swap Usage in MB, Disk Usages, Load Average, and System Uptime.
